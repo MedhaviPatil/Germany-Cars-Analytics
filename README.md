@@ -1,7 +1,7 @@
 # Germany-Cars-Analytics
-- Analyzied Germany Cars Sales data Created interactive dashboard using Power Bi.
+- Analyzed Germany Cars Sales data Created interactive dashboard using Power Bi.
 - This Dashboard provides a variety of graphs and interactive visualization that allow users to explore the data in depth.
-- In addition to this data visualization, this dashboard includes a feature that enables user to filter and drill down into the data to gain more insights.
+- In addition to this data visualization, this dashboard includes a feature that enables users to filter and drill down into the data to gain more insights.
 
 # Data Gathered
 This dataset is collected from kaggle link: https://www.kaggle.com/datasets/ander289386/cars-germany
